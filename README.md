@@ -1,6 +1,6 @@
 RAGE BOT:
 Rapid Fire
-Anti Aim (Jitter)
+Anti Aim (Jitter) 
 Multipoint
 PSilent
 Visual:
